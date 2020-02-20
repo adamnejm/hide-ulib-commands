@@ -6,3 +6,5 @@ Won't interfere with non-command messages prefixed with !
 
 It doesn't affect ULX's Fancy Log system (eg. You granted god mode upon Yourself)  
 You can already disable that by executing ulx_logecho 0
+
+Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=2000865255
