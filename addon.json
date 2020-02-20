@@ -1,0 +1,11 @@
+{
+	"title": "Hide ULX & ULib Commands",
+	"type":	"ServerContent",
+	"tags":	["build", "scenic"],
+	"ignore"	:
+	[
+		".git*",
+		"README.md",
+		"thumbnail.jpg"
+	]
+}
